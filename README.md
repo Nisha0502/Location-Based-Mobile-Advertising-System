@@ -25,12 +25,11 @@ This is my final-semester BCA project — a smart mobile app that delivers **per
 
 ---
 
-## 🖼 Screenshots
 
 ## 🖼 Screenshots
 
 ### 📱 Home Screen
-![Sign-In Section](screenshots/home.png)
+![Sign-In Section](https://github.com/Nisha0502/Location-Based-Mobile-Advertising-System/blob/main/Sign-In%20Section.png?raw=true)
 
 ### 📱 Portfolio Screen
 ![Portfolio Section](https://github.com/Nisha0502/Location-Based-Mobile-Advertising-System/blob/main/Portfolio%20Section.png?raw=true)
