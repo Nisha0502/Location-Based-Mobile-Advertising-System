@@ -97,8 +97,7 @@ The following folders contain the main project code:
 
 **Nisha Chaudharay**  
 📧 Email: [nishachaudharay@gmail.com]  
-🔗 GitHub: 
-🌐 LinkedIn: 
+Phone Number: +91-7818051202
 
 ---
 
