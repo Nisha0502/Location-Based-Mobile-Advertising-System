@@ -27,7 +27,26 @@ This is my final-semester BCA project — a smart mobile app that delivers **per
 
 ## 🖼 Screenshots
 
-_Add screenshots of your app interface here later:_
+## 🖼 Screenshots
+
+### 📱 Home Screen
+![Sign-In Section](screenshots/home.png)
+
+### 📱 Portfolio Screen
+![Portfolio Section](screenshots/ad-display.png)
+
+### 📱 Admin Panel
+![Admin Panel](screenshots/admin-panel.png)
+
+
+### 📱 Reward Section
+![Reward Section](screenshots/home.png)
+
+### 📱 Contact Us
+![Contact Us](screenshots/ad-display.png)
+
+### 📱 Project Poster
+![Project- Poster](screenshots/admin-panel.png)
 
 
 ---
