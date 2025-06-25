@@ -83,6 +83,13 @@ The following folders contain the main project code:
 
 ---
 
+## 📄 Thesis Paper
+
+We submitted a full thesis as part of this project for our final semester evaluation.
+
+📥 [Download Full Thesis (PDF)](Thesis_LocationBasedAd.pdf)
+
+
 
 ## 📄 Results
 
