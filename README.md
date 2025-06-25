@@ -40,7 +40,7 @@ This is my final-semester BCA project — a smart mobile app that delivers **per
 
 
 ### 📱 Reward Section
-![Reward Section](screenshots/home.png)
+![Reward Section](https://github.com/Nisha0502/Location-Based-Mobile-Advertising-System/blob/main/Reward%20Section.png?raw=true)
 
 ### 📱 Contact Us
 ![Contact Us](https://github.com/Nisha0502/Location-Based-Mobile-Advertising-System/blob/main/Contact%20Us.png?raw=true)
