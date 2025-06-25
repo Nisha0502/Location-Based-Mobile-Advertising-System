@@ -33,7 +33,7 @@ This is my final-semester BCA project — a smart mobile app that delivers **per
 ![Sign-In Section](screenshots/home.png)
 
 ### 📱 Portfolio Screen
-![Portfolio Section](screenshots/ad-display.png)
+![Portfolio Section](https://github.com/Nisha0502/Location-Based-Mobile-Advertising-System/blob/main/Portfolio%20Section.png?raw=true)
 
 ### 📱 Admin Panel
 ![Admin Panel](https://github.com/Nisha0502/Location-Based-Mobile-Advertising-System/blob/main/Admin%20Panel.png?raw=true)
