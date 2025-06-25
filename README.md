@@ -26,15 +26,17 @@ This is my final-semester BCA project — a smart mobile app that delivers **per
 ---
 
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 location-based-mobile-ads/
-├── css/ # Stylesheets for the UI
-├── js/ # JavaScript logic for functionality
-├── fonts/ # Custom fonts/icons used in the interface
-├── screenshots/ # UI and app screen previews
-├── Project-Poster.png # Final project presentation poster
-└── README.md # Project overview and documentation
+├── 📄 README.md # Project overview, features, and documentation
+├── 📁 css/ # Styling for the mobile UI
+├── 📁 js/ # JavaScript logic for functionality
+├── 📁 fonts/ # Custom fonts and icons used
+├── 📁 screenshots/ # UI and app preview images
+├── 📄 Project-Poster.png # Final semester project presentation poster
+├── 📄 NishaChaudharay_BCA_Thesis_LocationBasedAds.pdf # Full thesis paper
+└── 📁 Additional Results/ # Survey data, evaluation results, etc. (optional)
 
 
 ---
@@ -87,7 +89,7 @@ The following folders contain the main project code:
 
 We submitted a full thesis as part of this project for our final semester evaluation.
 
-📥 [Download Full Thesis (PDF)](Thesis_LocationBasedAd.pdf)
+📥 [Download Full Thesis (PDF)](https://github.com/Nisha0502/Location-Based-Mobile-Advertising-System/blob/main/NishaChaudharay_BCA_Thesis_LocationBasedAds.pdf)
 
 
 
