@@ -26,6 +26,20 @@ This is my final-semester BCA project — a smart mobile app that delivers **per
 ---
 
 
+## 📁 Project Structure
+
+location-based-mobile-ads/
+├── css/ # Stylesheets for the UI
+├── js/ # JavaScript logic for functionality
+├── fonts/ # Custom fonts/icons used in the interface
+├── screenshots/ # UI and app screen previews
+├── Project-Poster.png # Final project presentation poster
+└── README.md # Project overview and documentation
+
+
+---
+
+
 ## 🖼 Screenshots
 
 ### 📱 Home Screen
@@ -57,18 +71,18 @@ Here is the final poster we presented during our project expo:
 
 ---
 
-## 📁 Project Structure
+## 💻 Source Code
 
+The following folders contain the main project code:
+
+- `/css` – styles for mobile interface
+- `/js` – JavaScript logic
+- `/fonts` – custom fonts and icons used in UI
+
+> These files demonstrate how the mobile UI, ad logic, and layout were developed using HTML/CSS/JavaScript.
 
 ---
 
-
----
-
-## 📁 Project Structure
-
-
----
 
 ## 📄 Results
 
@@ -77,6 +91,7 @@ Here is the final poster we presented during our project expo:
 - Demonstrated scalable ad placement and filtering
 
 ---
+
 
 ## 🙋‍♀️ Author
 
