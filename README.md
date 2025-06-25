@@ -44,11 +44,15 @@ This is my final-semester BCA project — a smart mobile app that delivers **per
 ### 📱 Contact Us
 ![Contact Us](https://github.com/Nisha0502/Location-Based-Mobile-Advertising-System/blob/main/Contact%20Us.png?raw=true)
 
-### 📱 Project Poster
-![Project- Poster](https://github.com/Nisha0502/Location-Based-Mobile-Advertising-System/blob/main/Project-Poster.png?raw=true)
-
 
 ---
+
+
+## 🧾 Project Poster
+
+Here is the final poster we presented during our project expo:
+
+![Project Poster](https://github.com/Nisha0502/Location-Based-Mobile-Advertising-System/blob/main/Project-Poster.png?raw=true)
 
 
 ---
